@@ -8,8 +8,8 @@ Use this as a reference when you run into unexpected errors in your terminal.
 4. Make sure to stop all processes
 5. Go back to Terminal and run your ruby code again
 
-## Error: Unable to run shotgun & bundle excec not working
-1. Gem uninstall rack
+## Error: Unable to run shotgun & bundle exec not working
+1. In terminal try `Gem uninstall rack`
 2. Follow prompt to remove version of rack that doesn’t work with sinatra
 
 ## Error: Localhost not working
